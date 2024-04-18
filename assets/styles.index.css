@@ -21,3 +21,28 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+#principal {
+    
+    border-radius: 6px;
+    height: 800px;
+    margin: 10px 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+main {
+    background-color: rgb(126, 225, 162);
+    border-radius: 6px;
+    height: 100%;
+    width: 74%;
+
+}
+
+aside {
+    background-color: rgb(104, 183, 127);
+    border-radius: 6px;
+    height: 100%;
+    width: 25%;
+}
