@@ -46,3 +46,24 @@ aside {
     height: 100%;
     width: 25%;
 }
+
+footer {
+    background-color: #eac8d6;
+    border-radius: 6px;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+footer {
+    color:rgb(249, 230, 243);
+    font-size: 1.2rem;
+    
+}
+
+footer a {
+    color: rgb(249, 230, 243);
+    font-weight: 500;
+}
